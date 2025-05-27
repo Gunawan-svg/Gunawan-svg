@@ -16,8 +16,16 @@
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200"/>
 </p>
 
-```bash
-# Game buatan saya:
-> game_terminal.py - Game zombie teks
-> bot_moba.js - Konsep bot game
-> racing_sim.java - Game CLI Balap
+<p align="center">
+  <svg width="300" height="100">
+    <rect x="10" y="40" width="40" height="40" fill="#00ffcc">
+      <animate attributeName="x" from="10" to="250" dur="3s" repeatCount="indefinite" />
+    </rect>
+    <rect x="250" y="10" width="40" height="40" fill="#ff0066">
+      <animateTransform attributeName="transform" type="rotate" from="0 270 30" to="360 270 30" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="150" cy="50" r="10" fill="#ffcc00">
+      <animate attributeName="r" values="10;20;10" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
