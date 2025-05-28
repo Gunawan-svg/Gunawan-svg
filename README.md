@@ -1,31 +1,70 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Gunawan-svg!&fontSize=30&fontAlignY=35" />
-</h1>
+<div align="center">
+
+# 👋 Hai, Saya Gunawan-svg!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gunawan-svg&label=Profile%20Views&color=blue&style=flat )  
+![Status](https://img.shields.io/badge/-Online-brightgreen?style=flat-square&logo=github&label=Status )
+
+</div>
+
+---
+
+## 🎮 Mini Game Animasi
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gunawan-svg/Gunawan-svg/main/game.gif " alt="Mini Game Animation" width="300"/>
+</div>
+
+> Sebuah preview dari mini game sederhana yang sedang saya kerjakan atau favorit. Inovasi & kreativitas adalah bagian dari passion saya.
+
+---
+
+## 🔍 Tentang Saya
+
+---
+
+## 🛠️ Tech Stack Saya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Halo+Teman%2C+Selamat+Datang+di+Zona+Ngoding!;Saya+Gunawan+%7C+Pelajar+%7C+Programmer+Muda;Ngoding+Python%2C+Linux%2C+dan+JavaScript;Eksperimen+Game+dan+Coding+Setiap+Hari!" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=js ,ts,py,java,html,css,react,unity,git" />
 </p>
 
 ---
 
-### 🎮 Game Developer Mini Project
+## 📦 Proyek Terbaru
 
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200"/>
-</p>
+### 🕹️ [Mini Game - Catch the Ball]
+> Game sederhana menggunakan HTML5 + JavaScript untuk melatih logika dan animasi. Cocok untuk pembelajaran dasar game dev.
+- 🧱 Built with: HTML, CSS, JS
+- 🎯 Mekanisme: Click Event & DOM Manipulation
 
-<p align="center">
-  <svg width="300" height="100">
-    <rect x="10" y="40" width="40" height="40" fill="#00ffcc">
-      <animate attributeName="x" from="10" to="250" dur="3s" repeatCount="indefinite" />
-    </rect>
-    <rect x="250" y="10" width="40" height="40" fill="#ff0066">
-      <animateTransform attributeName="transform" type="rotate" from="0 270 30" to="360 270 30" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <circle cx="150" cy="50" r="10" fill="#ffcc00">
-      <animate attributeName="r" values="10;20;10" dur="1s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
-</p>
+### 📊 [Data Visualizer Tool]
+> Alat visualisasi data interaktif menggunakan D3.js dan Chart.js untuk menampilkan informasi secara dinamis.
+- 📊 Built with: D3.js, Chart.js, HTML/CSS
+
+*Catatan: Sesuaikan proyek sesuai dengan portfolio kamu.*
+
+---
+
+## 📊 Statistik Aktivitas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gunawan-svg&show_icons=true&theme=radical&include_all_commits=true " />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunawan-svg&theme=dracula " />
+</div>
+
+---
+
+## 📬 Hubungi Saya
+
+| Platform | Link |
+|---------|------|
+| 🧑‍💻 GitHub | [github.com/Gunawan-svg](https://github.com/Gunawan-svg ) |
+| 💼 LinkedIn | [linkedin.com/in/nama-kamu](https://linkedin.com/in/nama-kamu ) *(sesuaikan)* |
+| 📧 Email | [gunawankamu@example.com](mailto:gunawankamu@example.com) |
+| 🌐 Website | [gunawan.dev](https://gunawan.dev ) *(opsional)* |
+
+---
+
+> 🔥 *Keep learning, keep coding, and make cool stuff!*
