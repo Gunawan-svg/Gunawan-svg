@@ -1,72 +1,23 @@
-<div align="center">
+# Hi there, I'm Gunawan-svg 👋
 
-# <img src="https://readme-typing-effect.vercel.app/?text=Hai%2C+Gunawan-svg&color=%2300ff87&size=45px&center=true " alt="Typing Effect"/>
+```svg
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" >
+  <defs>
+    <linearGradient id="Gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#306998" />
+      <stop offset="100%" stop-color="#FFD43B" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="45" stroke="url(#Gradient1)" stroke-width="5" fill="none"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana" font-size="32" fill="url(#Gradient1)">
+    Py
+  </text>
+  <animateTransform attributeName="transform" attributeType="XML"
+      type="rotate"
+      from="0 50 50"
+      to="360 50 50"
+      dur="10s"
+      repeatCount="indefinite"/>
+</svg>
 
-Seorang **Pemula Python yang Penuh Semangat** 🐍  
-Belajar coding setiap hari dari Indonesia 🇮🇩  
-Usia: 13 tahun | Masih belajar tapi tidak pernah menyerah 💪
-
-</div>
-
----
-
-## 📊 Statistik Bahasa Pemrograman
-
-![Bahasa Terbanyak](https://github-readme-top-langs.vercel.app/api/top-langs/?username=Gunawan-svg&theme=onedark )
-
----
-
-## 🧠 Tentang Saya
-
-- 🚀 Usia 13 tahun dan mulai serius belajar programming.
-- 🐍 Sedang fokus mempelajari **Python** sebagai bahasa utama.
-- 📘 Belajar otodidak lewat buku, YouTube, dan proyek sederhana.
-- 🤝 Ingin menjadi developer hebat suatu hari nanti!
-
----
-
-## 🛠 Skill Saat Ini
-
-| Kategori         | Tools & Teknologi                      |
-|------------------|----------------------------------------|
-| **Bahasa**       | Python, sedikit HTML/CSS               |
-| **Tools**        | Git, GitHub, VS Code                   |
-| **Konsep Dasar** | Algoritma, Logika, Loop, Fungsi, dll   |
-
----
-
-## 📦 Proyek Saya
-
-### 🎯 [Proyek 1 - Kalkulator Sederhana](https://github.com/Gunawan-svg/proyek-kalkulator )
-> Program pertamaku yang bisa melakukan operasi matematika dasar.
-
-### 🎮 [Proyek 2 - Game Tebak Angka](https://github.com/Gunawan-svg/game-tebak-angka )
-> Game sederhana berbasis terminal menggunakan Python.
-
-> *(Tambahkan link proyek kamu saat kamu upload ke GitHub)*
-
----
-
-## 📊 Statistik Aktivitas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunawan-svg&show_icons=true&theme=onedark )
-
----
-
-## 🤝 Hubungi Saya
-
-- 📧 Email: [gunawan@example.com](mailto:gunawan@example.com) *(ganti jika ada)*
-- 💼 LinkedIn: [linkedin.com/in/gunawansvg](https://linkedin.com/in/gunawansvg ) *(opsional)*
-
----
-
-## 🌙 Tampilan Dark Mode
-
-Template ini dirancang dalam **tema gelap** agar nyaman dibaca dan terlihat lebih profesional 😄  
-Kalau kamu ingin tambahan seperti animasi SVG custom atau foto profil, saya bisa bantu juga!
-
----
-
-## 🏷️ Tags
-`#python` `#beginner` `#developer` `#codinglife` `#github-profile` `#darkmode`
     
